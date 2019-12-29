@@ -1,14 +1,14 @@
 {
-  "firstName": "Emils",
-  "lastName": "Gulbis",
-  "phone": "+37120303056",
-  "email": "emils.gulbis@gmail.com",
+  "firstName": "Jithin",
+  "lastName": "Antony",
+  "phone": "+918078063440",
+  "email": "jithinantony333@gmail.com",
   "location": {
-    "address": "Kurmajas prospekts 7",
-    "city": "Liepaja",
-    "country": "Latvia"
+    "address": "RankBrainy Technologies",
+    "city": "Chalakudy, Thrissur",
+    "country": "India"
   },
-  "position": "Front-end developer",
-  "birthday": "1993/04/15",
-  "aboutMe": "I love to develop \n beautiful UI's"
+  "position": "Backend developer | Android Developer",
+  "birthday": "1995/09/05",
+  "aboutMe": "I love to develop \n complex Web Apps"
 }

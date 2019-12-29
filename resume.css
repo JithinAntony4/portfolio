@@ -1,165 +1,10 @@
-<template>
-  <main id="content">
-    <div>
-      <section>
-        <h2 class="title">Tech I use</h2>
-        <p class="text-muted">
-          <em>I'm always excited to learn some new technology!</em>
-        </p>
-        <div class="brands row">
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://nodejs.org/" target="_blank"
-              ><img
-                src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
-                alt="Node JS"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://www.npmjs.com/" target="_blank"
-              ><img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"
-                alt="NPM"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://kotlinlang.org/" target="_blank"
-              ><img
-                src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/18852341021548218200-256.png"
-                alt="Kotlin"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://www.java.com/" target="_blank"
-              ><img
-                src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
-                alt="Java"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://developer.android.com/" target="_blank"
-              ><img
-                src="http://pngimg.com/uploads/android_logo/android_logo_PNG3.png"
-                alt="Android"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://www.python.org/" target="_blank"
-              ><img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"
-                alt="Python"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://pypi.org/project/Flask/" target="_blank"
-              ><img
-                src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png"
-                alt="Flask"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://www.djangoproject.com/" target="_blank"
-              ><img
-                src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png"
-                alt="DJango"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://handlebarsjs.com/" target="_blank"
-              ><img
-                src="https://cdn.worldvectorlogo.com/logos/handlebars.svg"
-                alt="Handlerbars"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="http://vuejs.org/" target="_blank"
-              ><img
-                src="http://front-end.lv/images/logos/vue.svg"
-                alt="VueJS"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://www.postgresql.org/" target="_blank"
-              ><img
-                src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
-                alt="Postgresql"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="http://dev.mysql.com/" target="_blank"
-              ><img
-                src="http://front-end.lv/images/logos/mysql.svg"
-                alt="MySql"
-                class="img-fluid"
-            /></a>
-          </div>
-          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
-            <a href="https://git-scm.com/" target="_blank"
-              ><img
-                src="http://front-end.lv/images/logos/git.svg"
-                alt="Git"
-                class="img-fluid"
-            /></a>
-          </div>
-        </div>
-      </section>
-      <section>
-        <h1 class="title title--spaced">Experience</h1>
-        <div class="list-group list-group-vertical">
-          <div class="list-group-item">
-            <p class="item-date">2016 - Present</p>
-            <p class="item-title">RedGoral</p>
-            <p class="text-muted">Android Developer</p>
-          </div>
-          <div class="list-group-item">
-            <p class="item-date">2018 - Present</p>
-            <p class="item-title">RankBrainy</p>
-            <p class="text-muted">Full Stack developer</p>
-          </div>
-          <div class="list-group-item">
-            <p class="item-date">2019 - Present</p>
-            <p class="item-title">Linkroid</p>
-            <p class="text-muted">Back-end developer</p>
-          </div>
-        </div>
-      </section>
-      <section>
-        <h2 class="title title--spaced">Education</h2>
-        <div class="list-group list-group-vertical">
-          <div class="list-group-item">
-            <p class="item-date">2013-2016</p>
-            <p class="item-title">Mahatma Gandhi University</p>
-            <p class="text-muted">
-              Bachelor of Science (Computer)
-            </p>
-          </div>
-          <div class="list-group-item">
-            <p class="item-date">2017-2019</p>
-            <p class="item-title">Mahatma Gandhi University</p>
-            <p class="text-muted">Master of Computer Applications</p>
-          </div>
-        </div>
-      </section>
-    </div>
-  </main>
-</template>
-<style scoped>
+
 @import url(
-  https://fonts.googleapis.com/css?family=Nunito+Sans:300,
-  400,
-  600,
-  700,
-  800
+https://fonts.googleapis.com/css?family=Nunito+Sans:300,
+400,
+600,
+700,
+800
 );
 
 /*!
@@ -3211,12 +3056,12 @@ pre code {
   border: 1px solid #ddd;
   border-radius: 0;
   -webkit-transition: border-color 0.15s ease-in-out,
-    -webkit-box-shadow 0.15s ease-in-out;
+  -webkit-box-shadow 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out,
-    -webkit-box-shadow 0.15s ease-in-out;
+  -webkit-box-shadow 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out,
-    -webkit-box-shadow 0.15s ease-in-out;
+  -webkit-box-shadow 0.15s ease-in-out;
 }
 
 .form-control::-ms-expand {
@@ -4429,15 +4274,15 @@ tbody.collapse.show {
 
 .btn-group-vertical > .btn-group:first-child:not(:last-child) > .btn:last-child,
 .btn-group-vertical
-  > .btn-group:first-child:not(:last-child)
-  > .dropdown-toggle {
+> .btn-group:first-child:not(:last-child)
+> .dropdown-toggle {
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 
 .btn-group-vertical
-  > .btn-group:last-child:not(:first-child)
-  > .btn:first-child {
+> .btn-group:last-child:not(:first-child)
+> .btn:first-child {
   border-top-right-radius: 0;
   border-top-left-radius: 0;
 }
@@ -4539,7 +4384,7 @@ tbody.collapse.show {
 .input-group-addon:not(:last-child),
 .input-group-btn:not(:first-child) > .btn-group:not(:last-child) > .btn,
 .input-group-btn:not(:first-child)
-  > .btn:not(:last-child):not(.dropdown-toggle),
+> .btn:not(:last-child):not(.dropdown-toggle),
 .input-group-btn:not(:last-child) > .btn,
 .input-group-btn:not(:last-child) > .btn-group > .btn,
 .input-group-btn:not(:last-child) > .dropdown-toggle,
@@ -4679,8 +4524,8 @@ tbody.collapse.show {
 }
 
 .custom-checkbox
-  .custom-control-input:indeterminate
-  ~ .custom-control-indicator {
+.custom-control-input:indeterminate
+~ .custom-control-indicator {
   background-color: #4c33fb;
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 4'%3E%3Cpath stroke='%23fff' d='M0 2h4'/%3E%3C/svg%3E");
 }
@@ -4720,8 +4565,8 @@ tbody.collapse.show {
   color: #464a4c;
   vertical-align: middle;
   background: #fff
-    url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23333' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E")
-    no-repeat right 0.75rem center;
+  url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='%23333' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E")
+  no-repeat right 0.75rem center;
   background-size: 8px 10px;
   border: 1px solid #ddd;
   border-radius: 0;
@@ -11378,15 +11223,15 @@ a.text-gray-dark:hover {
   font-family: FontAwesome;
   src: url(/fonts/vendor/font-awesome/fontawesome-webfont.eot?674f50d287a8c48dc19ba404d20fe713);
   src: url(/fonts/vendor/font-awesome/fontawesome-webfont.eot?674f50d287a8c48dc19ba404d20fe713?#iefix&v=4.7.0)
-      format('embedded-opentype'),
-    url(/fonts/vendor/font-awesome/fontawesome-webfont.woff2?af7ae505a9eed503f8b8e6982036873e)
-      format('woff2'),
-    url(/fonts/vendor/font-awesome/fontawesome-webfont.woff?fee66e712a8a08eef5805a46892932ad)
-      format('woff'),
-    url(/fonts/vendor/font-awesome/fontawesome-webfont.ttf?b06871f281fee6b241d60582ae9369b9)
-      format('truetype'),
-    url(/fonts/vendor/font-awesome/fontawesome-webfont.svg?912ec66d7572ff821749319396470bde#fontawesomeregular)
-      format('svg');
+  format('embedded-opentype'),
+  url(/fonts/vendor/font-awesome/fontawesome-webfont.woff2?af7ae505a9eed503f8b8e6982036873e)
+  format('woff2'),
+  url(/fonts/vendor/font-awesome/fontawesome-webfont.woff?fee66e712a8a08eef5805a46892932ad)
+  format('woff'),
+  url(/fonts/vendor/font-awesome/fontawesome-webfont.ttf?b06871f281fee6b241d60582ae9369b9)
+  format('truetype'),
+  url(/fonts/vendor/font-awesome/fontawesome-webfont.svg?912ec66d7572ff821749319396470bde#fontawesomeregular)
+  format('svg');
   font-weight: 400;
   font-style: normal;
 }
@@ -15594,4 +15439,3 @@ body {
   -webkit-transform: translateY(-50px);
   transform: translateY(-50px);
 }
-</style>

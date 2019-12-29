@@ -7,13 +7,15 @@
       <dl class="mb-4">
         <dt class="font-bold">Email</dt>
         <dd>
-          <a href="mailto:emils.gulbis@gmail.com">emils.gulbis@gmail.com</a>
+          <a href="mailto:jithinantony333@gmail.com"
+            >jithinantony333@gmail.com</a
+          >
         </dd>
       </dl>
 
       <dl class="mb-4">
         <dt class="font-bold">Phone</dt>
-        <dd><a href="tel:+37120303056">+371 20 30 30 56</a></dd>
+        <dd><a href="tel:+37120303056">+91 80 7806 3440</a></dd>
       </dl>
 
       <dl>
@@ -22,7 +24,7 @@
           <ul class="flex">
             <li v-if="facebook" class="mr-4">
               <a
-                href="https://www.facebook.com/emiils"
+                :href="facebook"
                 target="_blank"
                 rel="noopener"
                 aria-label="Find me on Facebook"
@@ -33,7 +35,7 @@
 
             <li v-if="linkedin" class="mr-4">
               <a
-                href="https://www.linkedin.com/in/emilsgulbis/"
+                :href="linkedin"
                 target="_blank"
                 rel="noopener"
                 aria-label="Get to know be better via Linkedin"

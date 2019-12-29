@@ -47,21 +47,21 @@
 
         <div class="p-6 shadow-lighter mb-8">
           <p class="font-bold mb-2">Email</p>
-          <a href="mailto:emils.gulbis@gmail.com" class="hover:underline"
-            >emils.gulbis@gmail.com</a
+          <a href="mailto:jithinantony333@gmail.com" class="hover:underline"
+            >jithinantony333@gmail.com</a
           >
         </div>
 
         <div class="p-6 mb-8">
           <p class="font-bold mb-2">Phone</p>
           <a href="tel:+37120303056" class="hover:underline"
-            >+371 20 30 30 56</a
+            >+91 80 7806 3440</a
           >
         </div>
 
         <div class="p-6">
           <p class="font-bold mb-2">Addresss</p>
-          <p>Mirdzas Kempes 3, Liepaja, Latvia, LV-3407</p>
+          <p>RankBrainy Technologies, Chalakudy, Thrissur, India, 680307</p>
         </div>
       </div>
     </div>

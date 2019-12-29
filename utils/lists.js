@@ -5,10 +5,5 @@ export const links = [
     title: 'Resume',
     label: 'Check out tech I love to work with'
   },
-  {
-    to: '/portfolio',
-    title: 'Portfolio',
-    label: 'See what I have done before'
-  },
-  { to: '/contact', title: 'Contact me', label: 'Get in toucn with me' }
+  { to: '/contact', title: 'Contact me', label: 'Get in touch with me' }
 ]
