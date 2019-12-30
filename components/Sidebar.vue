@@ -1,9 +1,9 @@
 <template>
   <aside class="w-280px p-10 flex flex-col justify-between bg-blue text-white">
-    <header class="mb-5" style="position: fixed">
+    <header class="mb-5">
       <logo />
     </header>
-    <footer style="position:fixed;margin-top: 350px">
+    <footer>
       <dl class="mb-4">
         <dt class="font-bold">Email</dt>
         <dd>

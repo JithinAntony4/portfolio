@@ -1,8 +1,8 @@
 {
   "name": "Portfolio",
   "version": "1.0.0",
-  "description": "FRONT-END.LV Portfolio",
-  "author": "Emīls Gulbis",
+  "description": "Jithin Antony Portfolio",
+  "author": "Jithin Antony",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -22,6 +22,7 @@
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.1.2",
     "@nuxtjs/eslint-module": "^1.0.0",
+    "@nuxtjs/google-analytics": "^2.2.2",
     "@nuxtjs/tailwindcss": "^1.1.2",
     "@vue/test-utils": "^1.0.0-beta.27",
     "autoprefixer": "^9.6.1",
