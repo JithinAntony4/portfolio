@@ -1,4 +1,14 @@
 <template>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42334874-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-42334874-1');
+  </script>
+
   <div class="flex">
     <sidebar />
     <div class="p-10 flex-1 bg-white pb-12 relative">
