@@ -140,7 +140,7 @@
             <p class="item-date">2013-2016</p>
             <p class="item-title">Mahatma Gandhi University</p>
             <p class="text-muted">
-              Bachelor of Science (Computer)
+              Bachelor of Science (Computer Science)
             </p>
           </div>
           <div class="list-group-item">
