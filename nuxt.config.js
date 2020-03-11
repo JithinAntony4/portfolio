@@ -24,7 +24,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#4c33fb' },
+  loading: { color: '#455a64' },
 
   generate: {
     routes: links.map(link => link.to)

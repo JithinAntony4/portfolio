@@ -24,7 +24,7 @@
 
 .link {
   position: relative;
-  
+
   &::after {
     content: "";
     position: absolute;
@@ -33,7 +33,7 @@
     width: 100%;
     transform: translateY(-12px);
     opacity: .2;
-    border-bottom: 3px solid #4c33fb;
+    border-bottom: 3px solid #455a64;
     transition: transform .25s,opacity .25s;
   }
 
