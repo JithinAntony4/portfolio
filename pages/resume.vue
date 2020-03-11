@@ -116,9 +116,9 @@
         <h1 class="title title--spaced">Experience</h1>
         <div class="list-group list-group-vertical">
           <div class="list-group-item">
-            <p class="item-date">2016 - Present</p>
-            <p class="item-title">RedGoral</p>
-            <p class="text-muted">Android Developer</p>
+            <p class="item-date">2019 - Present</p>
+            <p class="item-title">Linkroid</p>
+            <p class="text-muted">Back-end developer</p>
           </div>
           <div class="list-group-item">
             <p class="item-date">2018 - Present</p>
@@ -126,9 +126,9 @@
             <p class="text-muted">Full Stack developer</p>
           </div>
           <div class="list-group-item">
-            <p class="item-date">2019 - Present</p>
-            <p class="item-title">Linkroid</p>
-            <p class="text-muted">Back-end developer</p>
+            <p class="item-date">2016 - Present</p>
+            <p class="item-title">RedGoral</p>
+            <p class="text-muted">Android Developer</p>
           </div>
         </div>
       </section>
@@ -136,16 +136,16 @@
         <h2 class="title title--spaced">Education</h2>
         <div class="list-group list-group-vertical">
           <div class="list-group-item">
+            <p class="item-date">2017-2019</p>
+            <p class="item-title">Mahatma Gandhi University</p>
+            <p class="text-muted">Master of Computer Applications</p>
+          </div>
+          <div class="list-group-item">
             <p class="item-date">2013-2016</p>
             <p class="item-title">Mahatma Gandhi University</p>
             <p class="text-muted">
               Bachelor of Science (Computer Science)
             </p>
-          </div>
-          <div class="list-group-item">
-            <p class="item-date">2017-2019</p>
-            <p class="item-title">Mahatma Gandhi University</p>
-            <p class="text-muted">Master of Computer Applications</p>
           </div>
         </div>
       </section>
