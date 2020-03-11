@@ -10,39 +10,33 @@
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://nodejs.org/" target="_blank"
               ><img
-                src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
+                src="../assets/images/nodejs.png"
                 alt="Node JS"
                 class="img-fluid"
             /></a>
           </div>
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://www.npmjs.com/" target="_blank"
-              ><img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png"
-                alt="NPM"
-                class="img-fluid"
+              ><img src="../assets/images/npm.png" alt="NPM" class="img-fluid"
             /></a>
           </div>
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://kotlinlang.org/" target="_blank"
               ><img
-                src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/18852341021548218200-256.png"
+                src="../assets/images/kotlin.png"
                 alt="Kotlin"
                 class="img-fluid"
             /></a>
           </div>
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://www.java.com/" target="_blank"
-              ><img
-                src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png"
-                alt="Java"
-                class="img-fluid"
+              ><img src="../assets/images/java.png" alt="Java" class="img-fluid"
             /></a>
           </div>
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://developer.android.com/" target="_blank"
               ><img
-                src="http://pngimg.com/uploads/android_logo/android_logo_PNG3.png"
+                src="../assets/images/android.png"
                 alt="Android"
                 class="img-fluid"
             /></a>
@@ -50,7 +44,7 @@
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://www.python.org/" target="_blank"
               ><img
-                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"
+                src="../assets/images/python.png"
                 alt="Python"
                 class="img-fluid"
             /></a>
@@ -58,7 +52,7 @@
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://pypi.org/project/Flask/" target="_blank"
               ><img
-                src="https://cdn.freebiesupply.com/logos/thumbs/2x/flask-logo.png"
+                src="../assets/images/flask.png"
                 alt="Flask"
                 class="img-fluid"
             /></a>
@@ -66,7 +60,7 @@
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://www.djangoproject.com/" target="_blank"
               ><img
-                src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png"
+                src="../assets/images/django.png"
                 alt="DJango"
                 class="img-fluid"
             /></a>
@@ -74,7 +68,7 @@
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://handlebarsjs.com/" target="_blank"
               ><img
-                src="https://cdn.worldvectorlogo.com/logos/handlebars.svg"
+                src="../assets/images/handlebars.svg"
                 alt="Handlerbars"
                 class="img-fluid"
             /></a>
@@ -90,7 +84,7 @@
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://www.postgresql.org/" target="_blank"
               ><img
-                src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+                src="../assets/images/postgresql.svg"
                 alt="Postgresql"
                 class="img-fluid"
             /></a>
@@ -98,16 +92,21 @@
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="http://dev.mysql.com/" target="_blank"
               ><img
-                src="http://front-end.lv/images/logos/mysql.svg"
+                src="../assets/images/mysql.svg"
                 alt="MySql"
                 class="img-fluid"
             /></a>
           </div>
           <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
             <a href="https://git-scm.com/" target="_blank"
+              ><img src="../assets/images/git.svg" alt="Git" class="img-fluid"
+            /></a>
+          </div>
+          <div class="brand-item col-lg-1 col-md-2 col-sm-2 col-3">
+            <a href="https://firebase.google.com/" target="_blank"
               ><img
-                src="http://front-end.lv/images/logos/git.svg"
-                alt="Git"
+                src="../assets/images/firebase.png"
+                alt="Firebase"
                 class="img-fluid"
             /></a>
           </div>
