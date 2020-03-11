@@ -12,7 +12,7 @@ module.exports = {
           '90': 'rgba(0, 0, 0, 0.9)'
         },
 
-        gray: '#566075',
+        gray: '#2196f3',
         blue: '#455a64'
       },
 
